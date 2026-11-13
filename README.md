@@ -1,3 +1,10 @@
+> [!NOTE]
+> **This is the edulution fork of [linuxmuster-cli7](https://github.com/linuxmuster/linuxmuster-cli7).**
+> We build on the great work of the linuxmuster.net community. Maintaining our own
+> fork gives us the flexibility to ship security fixes and new features to edulution
+> installations quickly, and we actively contribute our changes back to the community
+> project. The packages are published at [package.edulution.io](https://package.edulution.io).
+
 # linuxmuster-cli7
 
 CLI tools for the linuxmuster.net community.
