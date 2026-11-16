@@ -25,16 +25,6 @@ Actually, followings commands are available (add `--help` to display all options
  * `lmncli passwd USER` : Set or reset user USER's first (initial) and/or current login password.
  * `lmncli users FILTER_STR` : List all users which name, login or role containing FILTER_STR. Give all users if FILTER_STR is empty.
 
-## Maintenance Details
-
-Linuxmuster.net official | ✅  YES
-:---: | :---: 
-[Community support](https://ask.linuxmuster.net) | ✅  YES*
-Actively developed | ✅  YES
-Primary maintainer | arnaud@linuxmuster.net
-    
-* The linuxmuster community consits of people who are nice and happy to help. They are not directly involved in the development though, and might not be able to help in any case.
-
 ## Screenshots
 
 ![20240105-144325 resized](https://github.com/linuxmuster/linuxmuster-cli7/assets/10401079/d7fee874-155f-4faa-9628-24024fc9bc9b)
