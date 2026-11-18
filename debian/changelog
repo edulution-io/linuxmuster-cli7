@@ -1,3 +1,13 @@
+linuxmuster-cli7 (1:7.4.13~edu) lmn74; urgency=medium
+
+  * Merge upstream 7.4.13. Upstream notes:
+  * [samba] "lmncli samba status" lists every connection of each user,
+    with the date of login.
+  * edulution fork: the dependency on linuxmuster-tools7 is clamped to
+    (>= 1:7.4.21~), the security release that carries the LDAP escaping.
+
+ -- Lukas Lukic-Spitznagel <lukas.spitznagel@netzint.de>  Tue, 18 Nov 2026 14:00:00 +0100
+
 linuxmuster-cli7 (1:7.4.12~edu) lmn74; urgency=medium
 
   * edulution fork. The package keeps its upstream name, so the epoch 1: is
